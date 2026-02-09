@@ -1,0 +1,30 @@
+/**
+ * Book categories for classification
+ */
+export enum BookCategory {
+  FICTION = 'fiction',
+  NON_FICTION = 'non_fiction',
+  SCIENCE = 'science',
+  TECHNOLOGY = 'technology',
+  HISTORY = 'history',
+  BIOGRAPHY = 'biography',
+  PHILOSOPHY = 'philosophy',
+  RELIGION = 'religion',
+  POETRY = 'poetry',
+  DRAMA = 'drama',
+  CHILDREN = 'children',
+  YOUNG_ADULT = 'young_adult',
+  REFERENCE = 'reference',
+  EDUCATION = 'education',
+  ART = 'art',
+  MUSIC = 'music',
+  TRAVEL = 'travel',
+  COOKING = 'cooking',
+  HEALTH = 'health',
+  SELF_HELP = 'self_help',
+  BUSINESS = 'business',
+  ECONOMICS = 'economics',
+  LAW = 'law',
+  POLITICS = 'politics',
+  OTHER = 'other',
+}
