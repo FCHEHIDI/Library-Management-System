@@ -32,3 +32,11 @@ npm-debug.log*
 
 # Testing
 .nyc_output/
+
+# Methodology exercises (educational materials)
+methodology/1-systeme-de-gestion-dune-bibliotheque.md
+methodology/2-compte-bancaire.md
+methodology/3-exercice-code-a-refacto.md
+methodology/3-systeme-de-reservation-de-restaurant.md
+methodology/exercice-1-modelisation.md
+methodology/lexique-poo-typescript.md
